@@ -1,6 +1,6 @@
 # Medical-Chatbot
 
-## Steps to run the 
+## Steps to run the project
 ```bash
 conda create -n mchatbot python=3.8 -y
 ```
