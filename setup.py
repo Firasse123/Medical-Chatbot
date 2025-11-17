@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 setup(
     name="Medical_Chatbot",
     version="0.0.0",
-    packages=find_packages(),
+    packages=find_packages(),  # look inside src/
     install_requires=[],
     author="Firas Guizani",
     author_email="firasguizani2012@gmail.com"
