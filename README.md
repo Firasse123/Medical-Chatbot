@@ -28,10 +28,9 @@ python app.py
 Model used: llama3.1:latest  
 Downloaded Locally from Ollama
 ```
-
-###Techstack Used:
-Python
-LangChain
-Flask
-Meta Llama2
-Pinecone
+### Techstack Used:
+ Python
+ LangChain
+ Flask
+ llama3.1:latest  
+ Pinecone
