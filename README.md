@@ -103,6 +103,7 @@ This script will:
 python app.py
 ```
 
+<<<<<<< HEAD
 The Flask application will start on `http://127.0.0.1:5000/`
 
 Open your browser and navigate to the URL to start chatting!
