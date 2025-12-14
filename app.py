@@ -6,7 +6,6 @@ from langchain_pinecone import PineconeVectorStore
 from pinecone import Pinecone
 from langchain.prompts import PromptTemplate
 from langchain_ollama.chat_models import ChatOllama
-from langchain.prompts import PromptTemplate
 from langchain.chains import create_retrieval_chain
 from langchain.chains.combine_documents import create_stuff_documents_chain
 from langchain_core.prompts import ChatPromptTemplate
